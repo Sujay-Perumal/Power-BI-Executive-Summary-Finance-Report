@@ -7,12 +7,13 @@ The report provides key financial insights such as **profit trends**, **sales pe
 
 ---
 
-## 📁 **Project Files**
-
-| File | Description |
-|------|-------------|
-| **Executive Sales Summary Report.pbix** | Full Power BI dashboard file. |
-| **Financial Sample.xlsx** | Raw dataset. |
+## 🔗 Dashboard File
+[Link to my report](https://app.powerbi.com/links/kDP-NxxDCL?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)  
+- **Executive Sales Summary Report.pbix** — Fully interactive Power BI report  
+  Includes:  
+  - Country-level profit map  
+  - Segment/product stacked bars  
+  - Annual & monthly trend analysis  
 
 ---
 
